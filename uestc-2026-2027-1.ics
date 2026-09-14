@@ -324,26 +324,6 @@ CLASS:PRIVATE
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:UoG11107.04-W06-D2-P5-6@uestc-course-calendar
-DTSTAMP:20260904T081750Z
-DTSTART;TZID=Asia/Shanghai:20260920T143000
-DTEND;TZID=Asia/Shanghai:20260920T160500
-SUMMARY:【调休·待确认】微积分I
-LOCATION:品学楼A413
-DESCRIPTION:教师：费铭岗\n节次：5–6\n教学周：第6周\n课程
- 序号：UoG11107.04\n学分：5\n状态：调休补课（待确认）\n
- 实际星期：星期日\n原课表日：星期二\n备注：原定 2026-1
- 0-06（第6周星期二），依据学校已公布的2026年调休工作
- 日安排移至 2026-09-20；截至2026-09-04，教务处尚未发布本
- 科课表映射通知，日期标记为待确认。\nNotion：https://app.
- notion.com/p/2686ef28c78544e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:TENTATIVE
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:UoG11119.04-W04-D1-P3-4@uestc-course-calendar
 DTSTAMP:20260904T081750Z
 DTSTART;TZID=Asia/Shanghai:20260921T102000
@@ -864,86 +844,6 @@ DESCRIPTION:教师：费铭岗\n节次：5–6\n教学周：第6周\n课程
  78544e38af6e10913ccb69f
 URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
 STATUS:CONFIRMED
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:M9800120.25-W06-D3-P1-2@uestc-course-calendar
-DTSTAMP:20260904T081750Z
-DTSTART;TZID=Asia/Shanghai:20261010T083000
-DTEND;TZID=Asia/Shanghai:20261010T100500
-SUMMARY:【调休·待确认】军事理论
-LOCATION:品学楼B411
-DESCRIPTION:节次：1–2\n教学周：第6周\n课程序号：M9800120.25
- \n学分：2\n状态：调休补课（待确认）\n实际星期：星期
- 六\n原课表日：星期三\n备注：原定 2026-10-07（第6周星期
- 三），依据学校已公布的2026年调休工作日安排移至 2026-1
- 0-10；截至2026-09-04，教务处尚未发布本科课表映射通知，
- 日期标记为待确认。\nNotion：https://app.notion.com/p/2686ef28c78
- 544e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:TENTATIVE
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:B2009310.09-W06-D3-P3-4@uestc-course-calendar
-DTSTAMP:20260904T081750Z
-DTSTART;TZID=Asia/Shanghai:20261010T102000
-DTEND;TZID=Asia/Shanghai:20261010T115500
-SUMMARY:【调休·待确认】器械健身A
-DESCRIPTION:教师：李雪梅\n节次：3–4\n教学周：第6周\n课程
- 序号：B2009310.09\n学分：1\n状态：调休补课（待确认）\n
- 实际星期：星期六\n原课表日：星期三\n备注：原定 2026-1
- 0-07（第6周星期三），依据学校已公布的2026年调休工作
- 日安排移至 2026-10-10；截至2026-09-04，教务处尚未发布本
- 科课表映射通知，日期标记为待确认。\nNotion：https://app.
- notion.com/p/2686ef28c78544e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:TENTATIVE
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:M1801830.08-W06-D3-P5-6@uestc-course-calendar
-DTSTAMP:20260904T081750Z
-DTSTART;TZID=Asia/Shanghai:20261010T143000
-DTEND;TZID=Asia/Shanghai:20261010T160500
-SUMMARY:【调休·待确认】习近平新时代中国特色社会主义
- 思想概论
-LOCATION:品学楼A108
-DESCRIPTION:教师：董良\n节次：5–6\n教学周：第6周\n课程序
- 号：M1801830.08\n学分：3\n状态：调休补课（待确认）\n实
- 际星期：星期六\n原课表日：星期三\n备注：原定 2026-10-0
- 7（第6周星期三），依据学校已公布的2026年调休工作日
- 安排移至 2026-10-10；截至2026-09-04，教务处尚未发布本科
- 课表映射通知，日期标记为待确认。\nNotion：https://app.not
- ion.com/p/2686ef28c78544e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:TENTATIVE
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:UoG11119.04-W06-D3-P7-8@uestc-course-calendar
-DTSTAMP:20260904T081750Z
-DTSTART;TZID=Asia/Shanghai:20261010T162000
-DTEND;TZID=Asia/Shanghai:20261010T175500
-SUMMARY:【调休·待确认】学术及通用英语
-LOCATION:品学楼C326
-DESCRIPTION:教师：曾戎\n节次：7–8\n教学周：第6周\n课程序
- 号：UoG11119.04\n学分：8\n状态：调休补课（待确认）\n实
- 际星期：星期六\n原课表日：星期三\n备注：原定 2026-10-0
- 7（第6周星期三），依据学校已公布的2026年调休工作日
- 安排移至 2026-10-10；截至2026-09-04，教务处尚未发布本科
- 课表映射通知，日期标记为待确认。\nNotion：https://app.not
- ion.com/p/2686ef28c78544e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:TENTATIVE
 TRANSP:OPAQUE
 CLASS:PRIVATE
 SEQUENCE:0
@@ -3434,6 +3334,48 @@ SUMMARY:【实验课】编程导论
 CATEGORIES:实验课
 DESCRIPTION:课程：编程导论\n类型：实验课\n教学周：第15周
  \n节次：7–8\n星期：星期四
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:uestc-sports-meet-20260919@uestc-course-calendar
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:运动会（全天）
+CATEGORIES:校园活动
+DESCRIPTION:全天运动会
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:uestc-sports-meet-20260920@uestc-course-calendar
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:运动会（全天）
+CATEGORIES:校园活动
+DESCRIPTION:全天运动会
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:A9700220.C9-W03-D7-P9-10@uestc-course-calendar
+DTSTAMP:20260904T081750Z
+DTSTART;TZID=Asia/Shanghai:20260920T193000
+DTEND;TZID=Asia/Shanghai:20260920T210500
+SUMMARY:心理健康与创新能力
+DESCRIPTION:教师：高猛\n节次：9–10\n教学周：第3周\n课程
+ 序号：A9700220.C9\n学分：2\n状态：常规\n实际星期：星期
+ 日\n原课表日：星期日\nNotion：https://app.notion.com/p/2686ef28c
+ 78544e38af6e10913ccb69f
+URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CLASS:PRIVATE
