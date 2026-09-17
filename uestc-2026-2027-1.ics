@@ -1160,60 +1160,6 @@ CLASS:PRIVATE
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-UID:M1801830.08-W07-D5-P1-2@uestc-course-calendar
-DTSTAMP:20260914T153415Z
-DTSTART;TZID=Asia/Shanghai:20261016T083000
-DTEND;TZID=Asia/Shanghai:20261016T100500
-SUMMARY:习近平新时代中国特色社会主义思想概论
-LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
- 科技大学清水河校区 品学楼A108
-DESCRIPTION:教师：董良\n节次：1–2\n教学周：第7周\n课程序
- 号：M1801830.08\n学分：3\n状态：常规\n实际星期：星期五\n
- 原课表日：星期五\nNotion：https://app.notion.com/p/2686ef28c78544
- e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:UoG11119.04-W07-D5-P3-4@uestc-course-calendar
-DTSTAMP:20260914T153415Z
-DTSTART;TZID=Asia/Shanghai:20261016T102000
-DTEND;TZID=Asia/Shanghai:20261016T115500
-SUMMARY:学术及通用英语
-LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
- 科技大学清水河校区 品学楼C326
-DESCRIPTION:教师：曾戎\n节次：3–4\n教学周：第7周\n课程序
- 号：UoG11119.04\n学分：8\n状态：常规\n实际星期：星期五\n
- 原课表日：星期五\nNotion：https://app.notion.com/p/2686ef28c78544
- e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:UoG11107.04-W07-D5-P5-6@uestc-course-calendar
-DTSTAMP:20260914T153415Z
-DTSTART;TZID=Asia/Shanghai:20261016T143000
-DTEND;TZID=Asia/Shanghai:20261016T160500
-SUMMARY:微积分I
-LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
- 科技大学清水河校区 品学楼A413
-DESCRIPTION:教师：费铭岗\n节次：5–6\n教学周：第7周\n课程
- 序号：UoG11107.04\n学分：5\n状态：常规\n实际星期：星期
- 五\n原课表日：星期五\nNotion：https://app.notion.com/p/2686ef28c
- 78544e38af6e10913ccb69f
-URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
 UID:A9700220.C9-W07-D7-P9-10@uestc-course-calendar
 DTSTAMP:20260904T081750Z
 DTSTART;TZID=Asia/Shanghai:20261018T193000
@@ -3508,42 +3454,153 @@ CLASS:PRIVATE
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:uestc-sports-meet-20260919@uestc-course-calendar
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:运动会（全天）
-CATEGORIES:校园活动
-DESCRIPTION:全天运动会
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uestc-sports-meet-20260920@uestc-course-calendar
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:运动会（全天）
-CATEGORIES:校园活动
-DESCRIPTION:全天运动会
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CLASS:PRIVATE
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:A9700220.C9-W03-D7-P9-10@uestc-course-calendar
-DTSTAMP:20260904T081750Z
-DTSTART;TZID=Asia/Shanghai:20260920T193000
-DTEND;TZID=Asia/Shanghai:20260920T210500
-SUMMARY:心理健康与创新能力
-DESCRIPTION:教师：高猛\n节次：9–10\n教学周：第3周\n课程
- 序号：A9700220.C9\n学分：2\n状态：常规\n实际星期：星期
- 日\n原课表日：星期日\nNotion：https://app.notion.com/p/2686ef28c
- 78544e38af6e10913ccb69f
+UID:UoG11107.04-W06-D2-P5-6@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=Asia/Shanghai:20260920T143000
+DTEND;TZID=Asia/Shanghai:20260920T160500
+SUMMARY:【调休】微积分I
+LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
+ 科技大学清水河校区 品学楼A413
+DESCRIPTION:教师：费铭岗\n节次：5–6\n教学周：第6周\n课程
+ 序号：UoG11107.04\n学分：5\n状态：调休补课\n实际星期：星
+ 期日\n原课表日：星期二\nNotion：https://app.notion.com/p/2686ef2
+ 8c78544e38af6e10913ccb69f\n备注：原定 2026-10-06（第6周星期二）
+ ，现调整至 2026-09-20。
 URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:UoG11113.01-W06-D2-P3-4@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=Asia/Shanghai:20260920T102000
+DTEND;TZID=Asia/Shanghai:20260920T115500
+SUMMARY:【调休】编程导论
+LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
+ 科技大学清水河校区 立人楼B217
+DESCRIPTION:教师：Syed Muhammad Raza\n节次：3–4\n教学周：第6
+ 周\n课程序号：UoG11113.01\n学分：2.5\n状态：调休补课\n实
+ 际星期：星期日\n原课表日：星期二\nNotion：https://app.notio
+ n.com/p/2686ef28c78544e38af6e10913ccb69f\n备注：原定 2026-10-06（第6
+ 周星期二），现调整至 2026-09-20。
+URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:M9800120.25-W06-D3-P1-2@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=Asia/Shanghai:20261010T083000
+DTEND;TZID=Asia/Shanghai:20261010T100500
+SUMMARY:【调休】军事理论
+LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
+ 科技大学清水河校区 品学楼B411
+DESCRIPTION:节次：1–2\n教学周：第6周\n课程序号：M9800120.25
+ \n学分：2\n状态：调休补课\n实际星期：星期六\n原课表日
+ ：星期三\nNotion：https://app.notion.com/p/2686ef28c78544e38af6e10913c
+ cb69f\n备注：原定 2026-10-07（第6周星期三），现调整至 2026
+ -10-10。
+URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:B2009310.09-W06-D3-P3-4@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=Asia/Shanghai:20261010T102000
+DTEND;TZID=Asia/Shanghai:20261010T115500
+SUMMARY:【调休】器械健身A
+DESCRIPTION:教师：李雪梅\n节次：3–4\n教学周：第6周\n课程
+ 序号：B2009310.09\n学分：1\n状态：调休补课\n实际星期：星
+ 期六\n原课表日：星期三\nNotion：https://app.notion.com/p/2686ef2
+ 8c78544e38af6e10913ccb69f\n备注：原定 2026-10-07（第6周星期三）
+ ，现调整至 2026-10-10。
+URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:M1801830.08-W06-D3-P5-6@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=Asia/Shanghai:20261010T143000
+DTEND;TZID=Asia/Shanghai:20261010T160500
+SUMMARY:【调休】习近平新时代中国特色社会主义思想概论
+LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
+ 科技大学清水河校区 品学楼A108
+DESCRIPTION:教师：董良\n节次：5–6\n教学周：第6周\n课程序
+ 号：M1801830.08\n学分：3\n状态：调休补课\n实际星期：星期
+ 六\n原课表日：星期三\nNotion：https://app.notion.com/p/2686ef28c7
+ 8544e38af6e10913ccb69f\n备注：原定 2026-10-07（第6周星期三），
+ 现调整至 2026-10-10。
+URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:UoG11119.04-W06-D3-P7-8@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=Asia/Shanghai:20261010T162000
+DTEND;TZID=Asia/Shanghai:20261010T175500
+SUMMARY:【调休】学术及通用英语
+LOCATION:四川省成都市高新区（西区）西源大道2006号 电子
+ 科技大学清水河校区 品学楼C326
+DESCRIPTION:教师：曾戎\n节次：7–8\n教学周：第6周\n课程序
+ 号：UoG11119.04\n学分：8\n状态：调休补课\n实际星期：星期
+ 六\n原课表日：星期三\nNotion：https://app.notion.com/p/2686ef28c7
+ 8544e38af6e10913ccb69f\n备注：原定 2026-10-07（第6周星期三），
+ 现调整至 2026-10-10。
+URL:https://app.notion.com/p/2686ef28c78544e38af6e10913ccb69f
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:glasgow-national-day-holiday-20261001@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261008
+SUMMARY:国庆节放假调休（7天）
+CATEGORIES:节假日
+DESCRIPTION:10月1日至7日放假调休，共7天。10月6日（第6周星
+ 期二）课表调整至9月20日，10月7日（第6周星期三）课表
+ 调整至10月10日。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:glasgow-sports-meet-20261016@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:校运动会（全天停课）
+CATEGORIES:校园活动
+DESCRIPTION:校运动会；全校本科生停课。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PRIVATE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:glasgow-sports-meet-20261017@uestc-course-calendar
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:校运动会（全天停课）
+CATEGORIES:校园活动
+DESCRIPTION:校运动会；全校本科生停课。
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CLASS:PRIVATE
